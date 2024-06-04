@@ -1,0 +1,22 @@
+норм бутстрап https://bootstrap-5.ru/docs/5.3/components/card/
+
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container">
+    <button type="button" class="btn btn-light">
+      Presents
+    </button>
+    <button type="button" class="btn btn-light"> <img src="./assets/imgs/лого.png" alt="">
+    </button>
+    <li class="nav-item">
+      <button type="button" class="btn btn-light">Adventeges</button>
+    </li>
+    <li class="nav-item">
+      <button type="button" class="btn btn-light">Blog</button>
+    </li>
+    <li class="nav-item">
+      <button type="button" class="btn btn-light">Schedule</button>
+    </li>
+  </div>
+
+
+
